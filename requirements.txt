@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pillow
+requests
+jupyter
+pydantic
+python-multipart
+scikit-learn
+mlflow
+boto3
+keras
+tensorflow
