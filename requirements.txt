@@ -7,6 +7,15 @@ pydantic
 python-multipart
 scikit-learn
 mlflow
+apache-airflow
 boto3
 keras
 tensorflow
+pendulum
+flask-session
+azure-storage-blob
+apache-airflow-providers-microsoft-azure
+apache-airflow[azure]
+Flask-Session
+apache-airflow[cncf.kubernetes]
+

@@ -2,8 +2,8 @@ import mlflow
 import os
 
 TRACKING_URI = "https://mlflow-ynov-jade-aba876011611.herokuapp.com/"
-AWS_ACCESS_KEY_ID = "AKIAQ3EGWSOMG5YD5WPI"
-AWS_SECRET_ACCESS_KEY = "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"
+AWS_ACCESS_KEY_ID = "AKIAQ3EGWSOML5RMTDO2"
+AWS_SECRET_ACCESS_KEY = "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"
 
 class QuickDrawClient(mlflow.MlflowClient):
     

@@ -1,6 +1,6 @@
 from pydantic import BaseModel
 from mlflow.entities.model_registry import RegisteredModel, ModelVersion
-from classes.utils import LABELS
+from server.classes.utils import LABELS
 
 class QDModelVersion(BaseModel):
     version: str = '0'

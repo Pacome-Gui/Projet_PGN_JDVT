@@ -1,8 +1,8 @@
 from fastapi import FastAPI, UploadFile, File
-from classes.activeModel import ActiveModel
-from classes.client import QuickDrawClient
-from classes.quickDrawObject import QDModel, QDPrediction
-from classes.utils import API_TAGS, LABELS, fileToImageToInput
+from server.classes.activeModel import ActiveModel
+from server.classes.client import QuickDrawClient
+from server.classes.quickDrawObject import QDModel, QDPrediction
+from server.classes.utils import API_TAGS, LABELS, fileToImageToInput
 
 app = FastAPI(
     title = "QuickDraw Classifier API REST",

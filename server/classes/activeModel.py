@@ -1,5 +1,5 @@
 import numpy as np
-from classes.quickDrawObject import QDModel, QDPrediction
+from server.classes.quickDrawObject import QDModel, QDPrediction
 from mlflow.pyfunc import load_model
 
 class ActiveModel():
