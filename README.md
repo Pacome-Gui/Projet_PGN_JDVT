@@ -25,11 +25,14 @@ Ce projet est une API rapide utilisant FastAPI qui permet d'appeler un modèle M
     pip install -r requirements.txt
     ```
 
-## Utilisation
+## Utilisation locale
 1. Démarrez le serveur FastAPI:
     ```bash
     uvicorn server.api:app --port 6969 --host 127.0.0.1
     ```
+## URL Déployée 
+DOCS : 
+https://api-cloud-g4-0bc391d2f0c3.herokuapp.com/docs
 
 ## Auteurs
 - Jade Domas-Vasserot et Pacôme GUILLERMIN
