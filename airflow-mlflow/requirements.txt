@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+SQLAlchemy
+apache-airflow
+mlflow
+boto3
+azure-storage-blob
+apache-airflow-providers-microsoft-azure
+apache-airflow[azure]
+Flask-Session
+apache-airflow[cncf.kubernetes]
