@@ -14,7 +14,7 @@ Ce projet est une API rapide utilisant FastAPI qui permet d'appeler un modèle M
 ## Installation
 1. Clonez le dépôt:
     ```bash
-    git clone https://github.com/votre-utilisateur/Projet_PGN_JDVT.git
+    git clone https://github.com/Pacome-Gui/Projet_PGN_JDVT
     ```
 2. Accédez au répertoire du projet:
     ```bash
